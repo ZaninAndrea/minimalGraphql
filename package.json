@@ -1,6 +1,10 @@
 {
     "name": "minimal-graphql",
     "version": "1.0.1",
+    "homepage": "https://github.com/ZaninAndrea/minimalGraphql",
+    "bugs": {
+        "url": "https://github.com/ZaninAndrea/minimalGraphql/issues"
+    },
     "dependencies": {
         "apollo-client-preset": "^1.0.5",
         "apollo-link-ws": "^1.0.4",
