@@ -155,3 +155,7 @@ client
         err: console.log,
     })
 ```
+
+## Contributing
+
+This package is hosted [here](https://github.com/ZaninAndrea/minimalGraphql), feel free to contribute or ask for any new feature ;)
