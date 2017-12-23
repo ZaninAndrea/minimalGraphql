@@ -1,13 +1,18 @@
-# Graphql tester
+# Minimal graphql
 
-This tester is built using the awesome [apollo library](https://www.apollographql.com/), but wires it up so that you can use it in node instead of the browser.
+Minimal graphql is a minimal node graphql client, it is built using the awesome [apollo library](https://www.apollographql.com/), but wires it up so that you can use it in node instead of the browser.
 
 ## Usage
 
 ### Initializing
 
-The only libraries you will need are `graphqltester` (guess what) and `graphql-tag` (parses you graphql documents).
-To create a client call the `graphqltester(httpOptions, subscriptionOptions)`
+The only libraries you will need are `minimal-graphql` (guess what) and `graphql-tag` (parses you graphql documents).
+To create a client
+
+```js
+const minimalGraphql = require("minimal-graphql")
+const client = minimalGraphql(httpOptions, subscriptionOptions)
+```
 
 * `httpOptions`: and object with the following props:
 
