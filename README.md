@@ -1,4 +1,4 @@
-# Minimal graphql
+# Minimal graphql [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/minimal-graphql)
 
 Minimal graphql is a minimal node graphql client, it is built using the awesome [apollo library](https://www.apollographql.com/), but wires it up so that you can use it in node instead of the browser.
 

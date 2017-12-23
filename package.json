@@ -1,6 +1,6 @@
 {
     "name": "minimal-graphql",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "apollo-client-preset": "^1.0.5",
         "apollo-link-ws": "^1.0.4",
