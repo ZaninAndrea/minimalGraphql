@@ -1,0 +1,1 @@
+{"__schema":{"types":[{"kind":"INTERFACE","name":"Variable","possibleTypes":[{"name":"FloatVariable"},{"name":"FileVariable"},{"name":"StringVariable"},{"name":"BooleanVariable"},{"name":"FloatSeriesVariable"},{"name":"CategorySeriesVariable"},{"name":"FileSeriesVariable"}]}]}}
